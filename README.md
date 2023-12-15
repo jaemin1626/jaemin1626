@@ -6,7 +6,7 @@ I'm Jaemin Jung, passionate about deep learning. I enjoy coding and exploring ne
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-[PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <!--
 **jaemin1626/jaemin1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
