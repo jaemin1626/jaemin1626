@@ -13,8 +13,9 @@ I'm Jaemin Jung, passionate about deep learning. I enjoy coding and exploring ne
 ![PyTorch](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-
-<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin1626&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin1626&layout=compact&theme=tokyonight)
+  <!--
 **jaemin1626/jaemin1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
