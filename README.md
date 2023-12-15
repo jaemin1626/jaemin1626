@@ -4,9 +4,9 @@ I'm Jaemin Jung, passionate about deep learning. I enjoy coding and exploring ne
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-302683?style=for-the-badge&logo=html5&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 <!--
