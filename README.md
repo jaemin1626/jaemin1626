@@ -1,4 +1,3 @@
-### jaemin's Github
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Jaemin's%20Github&fontSize=90)
 
 <!--
