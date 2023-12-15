@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Jaemin's%20Github&fontSize=90)
-
+###  Hi! there 😃
 <!--
 **jaemin1626/jaemin1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
