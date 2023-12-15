@@ -1,5 +1,5 @@
 ### jaemin's Github
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Jaemin's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Jaemin's%20Github&fontSize=90)
 
 <!--
 **jaemin1626/jaemin1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
