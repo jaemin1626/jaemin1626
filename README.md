@@ -1,10 +1,10 @@
 ###  Hi! there 😃
 I'm Jaemin Jung, passionate about deep learning. I enjoy coding and exploring new ideas. Feedback on code and ideas is always welcome! Let's grow and code together! 🚀
-<!--
-**jaemin1626/jaemin1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🛠️ Skills
 <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<!--
+**jaemin1626/jaemin1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
