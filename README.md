@@ -6,13 +6,15 @@ I'm Jaemin Jung, passionate about deep learning. I enjoy coding and exploring ne
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-302683?style=for-the-badge&logo=html5&logoColor=white) 
-
+#
 ### 🛠️ Framework
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+#
 
+### ⭐ Github Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin1626&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin1626&layout=compact&theme=tokyonight)
   <!--
