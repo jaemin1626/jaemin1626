@@ -1,7 +1,7 @@
 ###  Hi! there 😃
 I'm Jaemin Jung, passionate about deep learning. I enjoy coding and exploring new ideas. Feedback on code and ideas is always welcome! Let's grow and code together! 🚀
 
-<hr>
+<hr/>
 ### 💻 Programming Language
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
